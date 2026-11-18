@@ -1,0 +1,124 @@
+{
+ "coef": [
+  -0.09228559909488279,
+  0.26466275092779373,
+  0.0
+ ],
+ "lam": 0.01,
+ "annees": [
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024",
+  "2024-2025"
+ ],
+ "metriques": {
+  "candidat_retenu": "croissance_et_reprise",
+  "lambda_choisi": 0.01,
+  "bat_le_statu_quo": false,
+  "modele": {
+   "erreur_provinces_pct_eleves": 0.1691,
+   "erreur_nationale_moyenne": 0.1192,
+   "erreur_log_moyenne": 0.2872
+  },
+  "reference_statu_quo": {
+   "erreur_provinces_pct_eleves": 0.1207,
+   "erreur_nationale_moyenne": 0.0756,
+   "erreur_log_moyenne": 0.2404
+  },
+  "gain_erreur_provinces": -0.401,
+  "nb_previsions_testees": 10,
+  "nb_annees_apprentissage_min": 4,
+  "classement": [
+   [
+    0.1691,
+    "croissance_et_reprise",
+    0.01
+   ],
+   [
+    0.1696,
+    "croissance_reprise_inertie",
+    0.01
+   ],
+   [
+    0.1707,
+    "croissance_et_reprise",
+    0.1
+   ],
+   [
+    0.1712,
+    "croissance_commune",
+    0.01
+   ],
+   [
+    0.1712,
+    "croissance_commune",
+    0.1
+   ],
+   [
+    0.1712,
+    "croissance_commune",
+    1.0
+   ],
+   [
+    0.1712,
+    "croissance_commune",
+    10.0
+   ],
+   [
+    0.1712,
+    "croissance_et_reprise",
+    10.0
+   ]
+  ],
+  "coefficients": {
+   "a_croissance": -0.0923,
+   "b_retour_vers_pic": 0.2647,
+   "c_inertie": 0.0
+  },
+  "lecture": "erreur_provinces_pct_eleves : somme des écarts par province, en % du total d'élèves, sur des années que le modèle n'avait pas vues",
+  "comparaison_methodes": {
+   "periode": [
+    "2020-2021",
+    "2024-2025"
+   ],
+   "nb_previsions": 6,
+   "erreur_moyenne": {
+    "effectifs_constants": 0.111,
+    "taux_constant": 0.1016,
+    "taux_moyen_2_ans": 0.1123
+   },
+   "erreur_maximale": {
+    "effectifs_constants": 0.1472,
+    "taux_constant": 0.1687,
+    "taux_moyen_2_ans": 0.2031
+   }
+  }
+ },
+ "ecarts_par_horizon": {
+  "1": [
+   -0.2763508875251918,
+   0.0575036003072249,
+   0.2596377362135291
+  ],
+  "2": [
+   -0.3152662518129425,
+   0.09755971798828789,
+   0.5261766793889947
+  ],
+  "3": [
+   -0.365178525719874,
+   0.10237927949916248,
+   0.4385344463964611
+  ],
+  "4": [
+   -0.49121723919449206,
+   0.09173808811531714,
+   0.22335806685512838
+  ]
+ },
+ "empreinte_donnees": "eecd8db07ff48a56"
+}

@@ -1,0 +1,7 @@
+# Versions utilisees pour produire les resultats du dossier DASHBOARD/modele (Python 3.13)
+pandas==3.0.5
+numpy==2.5.3
+matplotlib==3.11.2
+scikit-learn==1.9.1
+# PuLP 4.x n'embarque pas de solveur : utiliser la version 3.3.0 (solveur CBC inclus)
+pulp==3.3.0

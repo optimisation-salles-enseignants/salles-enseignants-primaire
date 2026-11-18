@@ -1,0 +1,46 @@
+code_province_ancien;nom_province_ancien;code_region_ancienne;nom_region_ancienne;codes_province_nouveau;noms_province_nouveau;codes_region_nouveau;noms_region_nouveau;nb_provinces_nouvelles;relation;chiffres_non_divisibles
+BF1300;Kadiogo;BF13;Centre;BF1300;Kadiogo;BF13;Kadiogo;1;1 pour 1;0
+BF4601;Balé;BF46;Boucle du Mouhoun;BF6201;Bale;BF62;Bankui;1;1 pour 1;0
+BF4602;Banwa;BF46;Boucle du Mouhoun;BF6202;Banwa;BF62;Bankui;1;1 pour 1;0
+BF4603;Kossi;BF46;Boucle du Mouhoun;BF6101;Kossin;BF61;Sourou;1;1 pour 1;0
+BF4604;Mouhoun;BF46;Boucle du Mouhoun;BF6203;Mouhoun;BF62;Bankui;1;1 pour 1;0
+BF4605;Nayala;BF46;Boucle du Mouhoun;BF6102;Nayala;BF61;Sourou;1;1 pour 1;0
+BF4606;Sourou;BF46;Boucle du Mouhoun;BF6103;Sourou;BF61;Sourou;1;1 pour 1;0
+BF4701;Comoé;BF47;Cascades;BF4701;Comoe;BF47;Tannounyan;1;1 pour 1;0
+BF4702;Léraba;BF47;Cascades;BF4702;Leraba;BF47;Tannounyan;1;1 pour 1;0
+BF4801;Boulgou;BF48;Centre-Est;BF4801;Boulgou;BF48;Nakambe;1;1 pour 1;0
+BF4802;Koulpélogo;BF48;Centre-Est;BF4802;Koulpelogo;BF48;Nakambe;1;1 pour 1;0
+BF4803;Kourittenga;BF48;Centre-Est;BF4803;Kourittenga;BF48;Nakambe;1;1 pour 1;0
+BF4901;Bam;BF49;Centre-Nord;BF4901;Bam;BF49;Koulse;1;1 pour 1;0
+BF4902;Namentenga;BF49;Centre-Nord;BF4902;Namentenga;BF49;Koulse;1;1 pour 1;0
+BF4903;Sanmatenga;BF49;Centre-Nord;BF4903;Sandbondtenga;BF49;Koulse;1;1 pour 1;0
+BF5001;Boulkiemdé;BF50;Centre-Ouest;BF5001;Boulkiemde;BF50;Nando;1;1 pour 1;0
+BF5002;Sanguié;BF50;Centre-Ouest;BF5002;Sanguie;BF50;Nando;1;1 pour 1;0
+BF5003;Sissili;BF50;Centre-Ouest;BF5003;Sissili;BF50;Nando;1;1 pour 1;0
+BF5004;Ziro;BF50;Centre-Ouest;BF5004;Ziro;BF50;Nando;1;1 pour 1;0
+BF5101;Bazèga;BF51;Centre-Sud;BF5101;Bazega;BF51;Nazinon;1;1 pour 1;0
+BF5102;Nahouri;BF51;Centre-Sud;BF5102;Nahouri;BF51;Nazinon;1;1 pour 1;0
+BF5103;Zoundwéogo;BF51;Centre-Sud;BF5103;Zoundweogo;BF51;Nazinon;1;1 pour 1;0
+BF5201;Gnagna;BF52;Est;BF5801;Gnagna;BF58;Sirba;1;1 pour 1;0
+BF5202;Gourma;BF52;Est;BF6301;Gourma;BF63;Goulmou;1;1 pour 1;0
+BF5203;Komandjari;BF52;Est;BF5802;Komandjari;BF58;Sirba;1;1 pour 1;0
+BF5204;Kompienga;BF52;Est;BF6302;Kompienga;BF63;Goulmou;1;1 pour 1;0
+BF5205;Tapoa;BF52;Est;BF6001|BF6002;Dyamongou|Gobnangou;BF60;Tapoa;2;1 ancienne pour 2 nouvelles (eclatee);1
+BF5301;Houet;BF53;Hauts-Bassins;BF5301;Houet;BF53;Guiriko;1;1 pour 1;0
+BF5302;Kénédougou;BF53;Hauts-Bassins;BF5302;Kenedougou;BF53;Guiriko;1;1 pour 1;0
+BF5303;Tuy;BF53;Hauts-Bassins;BF5303;Tuy;BF53;Guiriko;1;1 pour 1;0
+BF5401;Loroum;BF54;Nord;BF5401;Loroum;BF54;Yaadga;1;1 pour 1;0
+BF5402;Passoré;BF54;Nord;BF5402;Passore;BF54;Yaadga;1;1 pour 1;0
+BF5403;Yatenga;BF54;Nord;BF5403;Yatenga;BF54;Yaadga;1;1 pour 1;0
+BF5404;Zondoma;BF54;Nord;BF5404;Zondoma;BF54;Yaadga;1;1 pour 1;0
+BF5501;Ganzourgou;BF55;Plateau-Central;BF5501;Ganzourgou;BF55;Oubri;1;1 pour 1;0
+BF5502;Kourwéogo;BF55;Plateau-Central;BF5502;Kourweogo;BF55;Oubri;1;1 pour 1;0
+BF5503;Oubritenga;BF55;Plateau-Central;BF5503;Bassitenga;BF55;Oubri;1;1 pour 1;0
+BF5601;Oudalan;BF56;Sahel;BF6401;Oudalan;BF64;Liptako;1;1 pour 1;0
+BF5602;Séno;BF56;Sahel;BF6402;Seno;BF64;Liptako;1;1 pour 1;0
+BF5603;Soum;BF56;Sahel;BF5901|BF5902;Djelgodji|Karo-Peli;BF59;Soum;2;1 ancienne pour 2 nouvelles (eclatee);1
+BF5604;Yagha;BF56;Sahel;BF6403;Yagha;BF64;Liptako;1;1 pour 1;0
+BF5701;Bougouriba;BF57;Sud-Ouest;BF5701;Bougouriba;BF57;Djoro;1;1 pour 1;0
+BF5702;Ioba;BF57;Sud-Ouest;BF5702;Ioba;BF57;Djoro;1;1 pour 1;0
+BF5703;Noumbiel;BF57;Sud-Ouest;BF5703;Noumbiel;BF57;Djoro;1;1 pour 1;0
+BF5704;Poni;BF57;Sud-Ouest;BF5704;Poni;BF57;Djoro;1;1 pour 1;0

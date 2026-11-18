@@ -1,0 +1,10 @@
+# Versions utilisées pour produire les résultats présentés (Python 3.13)
+streamlit==1.67.0
+plotly==7.1.0
+pandas==3.0.5
+numpy==2.5.3
+scipy==1.18.1
+scikit-learn==1.9.1
+shapely==2.2.0
+PuLP==3.3.0
+matplotlib==3.11.2
