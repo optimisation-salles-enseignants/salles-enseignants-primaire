@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+04_CODE/DASHBOARD/cache_modele/
+04_CODE/DASHBOARD/sorties/
